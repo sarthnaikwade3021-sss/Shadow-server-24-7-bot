@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SHADOWS-D7Vm.exaroton.me",
-    "port": 45848,
+    "ip": "SHADOWS-D7Vm-vc9D.exaroton.me",
+    "port": 28400,
     "version": "1.20.1",
     "try-creative": false
   },

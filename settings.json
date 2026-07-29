@@ -6,9 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SHADOWS-D7Vm-vc9D.exaroton.me
-    ",
-    "port": 28400,
+    "ip": "SHADOWS-D7Vm.aternos.me",
+    "port": 20560,
     "version": "1.20.1",
     "try-creative": false
   },
